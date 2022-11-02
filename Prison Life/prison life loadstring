@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NicholasDevelopers/roblox-script/main/Prison%20Life/Prison%20Life.txt", true))()
