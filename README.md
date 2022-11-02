@@ -1,3 +1,3 @@
 # roblox-script
 
-NGECHIT TROSS
+i don't own these script!
